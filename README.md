@@ -1,4 +1,4 @@
-# catsnrobots
+# Welcome to Cats n' Robots class!
 
 [Documentation](Documentation)
 
