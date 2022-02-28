@@ -4,4 +4,4 @@
 
 [Scaffold](https://github.com/nbarshay/catsnrobots/blob/main/scaffold.md)
 
-[Slides](https://docs.google.com/presentation/d/1oSSemoJkgWwygNmWMAqCEB1-pi547CmKvKrcni-3554/edit?usp=sharing)
+[Slides (all lectures)](https://docs.google.com/presentation/d/1oSSemoJkgWwygNmWMAqCEB1-pi547CmKvKrcni-3554/edit?usp=sharing)
