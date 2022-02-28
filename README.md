@@ -1,6 +1,6 @@
 # Welcome to Cats n' Robots class!
 
-[Documentation](Documentation)
+[Documentation](https://github.com/nbarshay/catsnrobots/wiki/Documentation)
 
 [Scaffold](https://github.com/nbarshay/catsnrobots/blob/main/scaffold.md)
 
