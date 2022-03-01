@@ -23,7 +23,7 @@ class MyMotor():
     def rotate(self, speed):
         self.motor.start(speed)
 
-class Timer():
+class MyTimer():
     def wait_for_seconds(self, secs):
         wait_for_seconds(secs)
 
@@ -32,5 +32,5 @@ class Timer():
 ###################################################################
 
 motor_1 = MyMotor('A')
-timer = Timer()
+timer = MyTimer()
 
